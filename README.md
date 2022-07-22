@@ -47,7 +47,7 @@ For those merchant who are using integration type such as Seamless or Direct Ser
   
   
 ### Tips #5. For requery the difference between Direct / Indirect Status Requery  
-Requery is the API used to check for each transaction status by using transaction ID or Order ID. But we have 2 different types of requery, i.e. Direct Status Requery and Indirect Status Requery.  
+Requery is the API used to check for each transaction status by using Transaction ID or Order ID. But we have 2 different types of requery, i.e. Direct Status Requery and Indirect Status Requery.  
 #### i. Direct Status Requery
 RazerMS will forward the status enquiry by merchant to the respective online banking / ewallet channel, which help the merchant to get realtime transaction status as aligned with the payment channel itself.  
 #### ii. Indirect Status Requery
